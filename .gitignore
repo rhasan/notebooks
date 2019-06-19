@@ -45,3 +45,4 @@ kgkit.egg-info/
 build
 
 .coverage
+.ipynb_checkpoints/
