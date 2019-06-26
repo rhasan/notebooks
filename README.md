@@ -18,3 +18,11 @@ The default configuration file looks like this:
     "backend": "tensorflow"
 }
 ```
+
+## Requirements for Time-series analysis
+
+pip install matplotlib
+pip install pandas
+pip install statsmodels
+pip install xlrd
+conda install -c conda-forge fbprophet 
